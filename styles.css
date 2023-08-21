@@ -1,0 +1,73 @@
+body
+{
+  background-color: #FFECEF;
+}
+
+.welc {
+  text-align: center;
+}
+.nyuu{
+  width: 180px;
+  height: 150px;
+  margin-left: 300px;
+   float: left;
+   margin-right: 30px;
+}
+.basic
+{
+    padding: 2% 9% 6% 9% ;
+}
+.kpop-welc{
+  text-align: center;
+}
+.felix{
+  width: 220px;
+  height: 180px;
+  margin-left: 300px;
+   float: left;
+   margin-right: 30px;
+}
+.part1
+{
+    padding: 2% 9% 6% 9% ;
+    line-height: 2;
+    padding-bottom: 0;
+}
+.part2{
+    padding: 2% 2% 1% 9% ;
+    line-height: 2;
+}
+.hao{
+  width: 220px;
+  height: 180px;
+  margin-left: 300px;
+   float: left;
+   margin-right: 30px;
+   padding-bottom: 0;
+}
+.part3{
+    padding: 2% 9% 6% 9% ;
+    line-height: 2;
+}
+.jinyoung{
+  width: 220px;
+  height: 180px;
+  margin-left: 300px;
+   float: left;
+   margin-right: 30px;
+   padding-top: 0;
+}
+.para{
+  margin-top: 0;
+}
+.imagee{
+  width: 220px;
+  height: 180px;
+  margin-left: 300px;
+   float: left;
+   margin-right: 30px;
+   padding-top: 0;
+}
+.trial{
+  align-items: center;
+}
